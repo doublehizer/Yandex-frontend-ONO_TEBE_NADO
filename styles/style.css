@@ -236,10 +236,20 @@
   gap: 24px;
 }
 
+.about__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 238px;
+  height: 238px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-color: #111111;
+}
+
 .about__logo-image {
   display: block;
   width: 140px;
-  margin: 0 auto;
 }
 
 .about__title {
